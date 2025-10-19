@@ -222,12 +222,4 @@ footer {
 #logo2:hover {
     transform: scale(1.05);
 }
-
-/* Медиа-запросы для мобильных устройств */
-@media (max-width: 768px) {
-    .content-layout {
-        grid-template-columns: 1fr;
-        gap: 30px;
-    }
-
 }
